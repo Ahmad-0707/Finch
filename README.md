@@ -9,7 +9,7 @@
 | Develop Code | - Wrote a Java program to move the Finch, play notes, flash lights, turn randomly | 
 
 ## Design Cycle
-The design cycle helped me break the project into manageable steps. First, I explored the Finch robot to understand its sensors, movement, and lights. Then, I designed the robot’s behavior, planning for it to move randomly, make sounds, and change colors. I built and tested the program, making adjustments as I went to fix issues and improve the interaction. Finally, I evaluated the robot’s performance, refining it based on feedback. This process allowed me to develop and improve the project step by step, ensuring the robot was engaging and fun to interact with.
+The design cycle helped me organize the project into clear steps. I started by connecting to the Finch robot and experimenting with its basic features like lights, sound, and movement. Then, I planned the robot’s behavior to include moving forward, turning at random angles, changing tail light colors, and playing different notes. I wrote and tested the code, using loops and random values to make the robot's actions more dynamic. During testing, I adjusted timing, motor speed, and light settings to improve how the robot responded. Finally, I evaluated the program's performance, added finishing touches like messages and color changes, and ensured everything worked smoothly. This process made it easier to build an engaging and interactive robot experience step by step.
 
 ---
 
